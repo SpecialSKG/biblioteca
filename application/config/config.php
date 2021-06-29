@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://usam-sql.sv.cds/biblioteca_g8/';
-$config['base_url'] = 'http://localhost/biblioteca_g8/';
+$config['base_url'] = 'http://localhost/biblioteca/';
 /*
 |--------------------------------------------------------------------------
 | Index File
