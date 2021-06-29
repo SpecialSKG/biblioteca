@@ -1,3 +1,3 @@
-# Biblioteca_G8
+# Biblioteca
 
 Proyecto de grupo PHP Nivel 3
